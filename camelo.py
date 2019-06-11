@@ -1,2 +1,2 @@
-stng=input()
-print(stng.title())
+a=input()
+print(a.title())
